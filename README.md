@@ -1,3 +1,3 @@
-# TechTalks held at the Karlsruhe Machine Learning, Statistics and AI Meetup
+# TechTalks held at the karlsruhe.ai Meetup
 
-You can find more information about upcoming meetups at https://www.meetup.com/de-DE/Karlsruhe-Machine-Learning-Statistics-and-AI-Meetup/.
+This repository contains slides and example code of previous meetups. You can find more information about karlsruhe.ai ind upcoming meetups at [karlsruhe.ai](https://karlsruhe.ai).
